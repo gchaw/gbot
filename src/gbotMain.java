@@ -14,7 +14,7 @@ public class gbotMain {
 	        bot.connect("irc.freenode.net");
 
 	        // Join the #pircbot channel.
-	        bot.joinChannel("#pircbot");
+	        bot.joinChannel("#tomatopotato");
 	        
 	    }
 	
